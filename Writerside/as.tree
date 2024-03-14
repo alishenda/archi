@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="as"
+                 name="Architecture SI"
+                 start-page="travaux-pratique.md">
+
+    <toc-element topic="travaux-pratique.md">
+        <toc-element topic="guide.md"/>
+        <toc-element topic="faq.md"/>
+    </toc-element>
+</instance-profile>
