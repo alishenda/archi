@@ -1,12 +1,12 @@
 <tldr>
 <p>TL;DR</p>
 <ul>
-<li>Identifiez besoins fonctionnels et non fonctionnels ; choisissez technologies adéquates.</li>
-<li>Concevez avec UML ; anticipez scalabilité et évolutions.</li>
-<li>Assurez connectivité, redondance ; préparez pour pannes.</li>
-<li>Justifiez langages/infrastructures ; priorisez adéquation aux besoins.</li>
+<li>Identifiez besoins fonctionnels et non fonctionnels ; choisissez les technologies adéquates.</li>
+<li>Concevez avec UML ; anticipez la scalabilité et l'évolutions.</li>
+<li>Assurez la connectivité et la redondance ; préparez-vous pour les pannes.</li>
+<li>Justifiez les langages et infrastructures choisis ; priorisez les actions en adéquation aux besoins.</li>
 <li>Environnements clairs (dev, test, prod) ; tests automatiques essentiels.</li>
-<li>Documentez, monitorisez, loggez pour faciliter la maintenance et l'évolution.</li>
+<li>Documentez, monitorez, loggez pour faciliter la maintenance et l'évolution.</li>
 </ul>
 </tldr>
 
