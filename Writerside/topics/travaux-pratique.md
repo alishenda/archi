@@ -34,7 +34,7 @@ après avoir été vues.
 * Inclure une section sur les défis et limitations anticipés de votre architecture et comment vous envisagez de les
   surmonter.
 * Préparer une présentation de votre dossier pour la soutenance devant un comité technique, incluant des slides et des
-  démonstrations de prototypes si possible.
+  démonstrations de prototypes si possible. (Optionnel)
 
 ## Critères d'Évaluation
 
