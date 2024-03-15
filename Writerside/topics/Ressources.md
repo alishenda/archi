@@ -6,7 +6,12 @@
 * Stream Processing with Apache Flink ; par Fabian Hueske, Vasiliki Kalavari ; ISBN : 9781491974292
 * Designing Data-Intensive Applications ; par Martin Kleppmann ; ISBN : 1449373321
 * Functional Programming, Simplified ; par Alvin Alexander ; ISBN : 1979788782
+* 
 * The dragon Book (Théorie des langages et des compilateurs)
+
+## Sites internet
+
+* https://craftinginterpreters.com/
 
 ## MOOC
 
