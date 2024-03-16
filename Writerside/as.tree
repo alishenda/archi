@@ -4,7 +4,7 @@
 
 <instance-profile id="as"
                  name="Cycle Ingénieur"
-                 start-page="architecture-si.md">
+                 start-page="accueil.topic">
     <toc-element topic="accueil.topic"/>
     <toc-element toc-title="Travaux pratiques">
         <toc-element topic="architecture-si.md">
