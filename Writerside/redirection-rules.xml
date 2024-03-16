@@ -6,8 +6,4 @@
         <accepts>page.html</accepts>
     </rule>
     -->
-    <rule id="6f959e3">
-        <description>Created after removal of "How to" from Architecture SI</description>
-        <accepts>How-to.html</accepts>
-    </rule>
 </rules>
